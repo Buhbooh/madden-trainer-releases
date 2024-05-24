@@ -1,6 +1,6 @@
 # Madden Trainer for Madden 24
 
-Madden Trainer is a tool that simulates players having football practice and going through physical workouts during the week to stay in shape.  The tool updates player's attributes - depending on how well they practice and do their workouts (if they participate). This gives your franchise a more realistic, dynamic feel - as players will change every week in a more dynamic way that the default game does!
+Madden Trainer is a tool that simulates players having football practice and going through physical workouts during the week to stay in shape.  The tool updates player's attributes - depending on how well they practice and do their workouts (if they participate). This gives your franchise a more realistic, dynamic feel - as players will change every week in a more dynamic way than the default game does!
 
 ## How To Use
 
