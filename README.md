@@ -48,7 +48,7 @@ The tool will initially have 2 screens/reports:
 
 ## My player had an excellent practice, but none of his attributes changed. Why not?
 
-This could be a couple of reasons. If he is over 30, he cannot make any more gains. If he is not over 30, he may have already met his potential in the attributes that he was rewarded for that practice.
+This could be a couple of reasons. If he is over 31 years old, he cannot make any more gains. If he is not over 31 years old, he may have already met his potential in the attributes that he was rewarded for that practice.
 
 ## How do injuries affect progression?
 
