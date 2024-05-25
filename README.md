@@ -8,7 +8,7 @@ Madden Trainer is a tool that simulates players having football practice and goi
    
 2. Initialize your franchise (one-time step).  This generates data locally for your franchise to keep track of player potentials and progression.
    
-3. At the start of every week (preseason and regular season), run the "Simulate Training" function. Only run this function once per week. IMPORTANT! DO NOT EVER RUN THIS WHILE MADDEN 24 IS RUNNING WITH THAT FRANCHISE IS LOADED - OR UPGRADES WILL NOT BE SAVED!
+3. At the start of every week (preseason and regular season), run the "Simulate Training" function. Only run this function once per week. **IMPORTANT! DO NOT EVER RUN THIS WHILE MADDEN 24 IS RUNNING WITH THAT FRANCHISE LOADED - OR UPGRADES WILL NOT BE SAVED!**
    
 4. After this is ran, you can view the results of the weekly training on the 'Training Results' section of the app.  You can view the training results for each 'iteration'.  A new iteration is created every time weekly training is ran.
    
