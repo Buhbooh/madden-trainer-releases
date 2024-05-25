@@ -4,7 +4,7 @@ Madden Trainer is a tool that simulates players having football practice and goi
 
 ## How To Use
 
-1. After running the tool, Load your franchise by selecting your franchise file (usually in the '\Users\\<username>\Documents\Madden NFL 24\saves' folder).
+1. After running the tool, Load your franchise by selecting your franchise file (usually in the '\Users\\<username>\Documents\Madden NFL 24\saves' folder). NOTE: You **MUST** always use this franchise file whenever loading your franchise into the tool every week - i.e. be sure and use the same franchise file when using the tool, or your prgressions will not get saved.
    
 2. Initialize your franchise (one-time step).  This generates data locally for your franchise to keep track of player potentials and progression.
    
