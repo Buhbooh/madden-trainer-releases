@@ -57,3 +57,7 @@ Players with significant injuries will be more likely to miss workouts and pract
 ## How do the development traits factor in?
 
 The higher a player's development trait, the more likely they will have higher potential - but it isn't guaranteed.  When a player's development trait is upgraded, the app will show that with a special icon, and that player will be rewarded with bonus potential.
+
+## What about XP gained in-game?
+
+XP is not used, and is cleared from every player automatically when you run training for the week in the tool - this is so that the progression in-game doesn't interfere with the progression from the tool.
