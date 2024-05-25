@@ -14,7 +14,7 @@ Madden Trainer is a tool that simulates players having football practice and goi
    
 5. Once training is ran at least twice, you can start viewing the 'Overall Progress' part of the app, which allows you to view the progress of your players, from an overall rating perspective.  NOTE: While the individual ratings for each player will get updated real-time, the overall ratings will not get re-calculated by the game until you advance to the next week - so that report will always be 1 week behind, and will not be meaningful until training is ran a second time.
    
-6. Progress is tracked on a yearly basis.  Once a new years starts in your franchise, the previous year data will not be shown in the app (for now).
+6. Progress is tracked on a yearly basis.  Once a new year starts in your franchise, the previous year data will not be shown in the app (for now).
 
 ## How does the tool work?
 
