@@ -40,11 +40,13 @@ Once, at the start of each preseason and regular season week. Progression is don
 
 ## What does the tool tell me?
 
-The tool will initially have 2 screens/reports:
+The tool currently has 3 screens/reports:
 
 1. Weekly training results.  This shows each player, and the results of their physical workouts and practice during the week, along with any changes to any attributes as a result of training.  Physical training results can show one of (DNP, Lethargic, OK, or Good).  Practice Results can be one of (DNP, Bad, OK, Good, Excellent, or ELITE).  
 
 2. Overall progress.  This shows how a player's overall rating has changed over time.  Note that the overalls shown on this report will be 1 week behind, since the game needs to re-calculate the overall when you move to the following week.
+
+3. Player training history. When you click a player's name in the weekly training results, you can see how successfully the player has trained in prior weeks. This can help you determine if a player is able to progress, and if he is motivated to progress.
 
 ## My player had an excellent practice, but none of his attributes changed. Why not?
 
