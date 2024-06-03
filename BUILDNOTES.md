@@ -1,5 +1,14 @@
 # Madden Trainer for Madden 24 Build Notes
 
+## Build 0.0.4 (RELEASE CANDIDATE)
+
+Additions:
+1. Added an administrative function that allows you to revert all attribute gains for the current YEAR. Note that this only works for the current year - once you advance to the next year in your franchise, you cannot revert the rating from previous years.
+
+Changes:
+1. Various cosemtic changes
+2. Modified the way injuries impact ratings changes.  Injury impacts are now dependent on age, and rating hits are no longer guaranteed on sever injuries. This should lessen the impact of season-long injuries.
+
 ## Build 0.0.3 (RELEASE CANDIDATE)
 
 Additions:
