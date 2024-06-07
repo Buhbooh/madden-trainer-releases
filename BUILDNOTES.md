@@ -1,5 +1,15 @@
 # Madden Trainer for Madden 24 Build Notes
 
+## Build 0.0.5 (RELEASE CANDIDATE)
+
+Additions:
+1. A confirmation dialog is now shown if training is ran when an iteration has already been created for the current week.
+
+Changes:
+1. Players with an 'Excellent' or 'Elite' practice result now have a chance to get a boost to potential ratings.  This isn't guaranteed, and the potential gains are processed before the actual gains. These gains are shown in a gold background on the report, and the potential ratings are not shown (just what was gained and how much).
+2. On the training report, gains of more than 1 point are now shown in blue.
+
+
 ## Build 0.0.4 (RELEASE CANDIDATE)
 
 Additions:
