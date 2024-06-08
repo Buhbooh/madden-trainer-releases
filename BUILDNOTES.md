@@ -1,5 +1,9 @@
 # Madden Trainer for Madden 24 Build Notes
 
+## Build 0.0.6 (RELEASE CANDIDATE)
+Bug Fixes:
+1. Fixed issue of not being able to view training report on older franchises.
+   
 ## Build 0.0.5 (RELEASE CANDIDATE)
 
 Additions:
