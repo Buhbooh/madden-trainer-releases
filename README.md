@@ -38,7 +38,7 @@ Every player is assigned a potential rating, which is heavily determined by thei
 
 ## How often do I run the tool?
 
-Once, at the start of each preseason and regular season week. Progression is done WEEKLY.
+Once per pre-season and regular season week. Progression is done WEEKLY.  YOu could opt to run it more or less frequently, but the progression is tuned with the assumption that it would be ran ~21 times per season.
 
 ## What does the tool tell me?
 
