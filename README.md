@@ -56,7 +56,7 @@ This could be a couple of reasons. If he is over 31 years old, he cannot make an
 
 ## How do injuries affect progression?
 
-Players with significant injuries will be more likely to miss workouts and practices, thus causing them to degrade a little bit until they can start working out and practicing again.  The longer they will be out due to injury, the more likely they will miss workouts and/or practice.
+Players with significant injuries will be more likely to miss workouts and practices, thus causing them to degrade a little bit until they can start working out and practicing again.  The longer they will be out due to injury, the more likely they will miss workouts and/or practice.  Age is also a factor in the likelyhood of players downgrading.  Younger players are more likely to lose football attributes when missing practices, while older players are more likely to lose physical attrubutes when they miss workouts.
 
 ## How do the development traits factor in?
 
