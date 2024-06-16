@@ -1,5 +1,21 @@
 # Madden Trainer for Madden 24 Build Notes
 
+## Build 0.1.0 (RELEASE CANDIDATE)
+Additions:
+1. Player overall changes are now shown realtime!  Note that the game will not show the overall rating update until after the week is advanced.
+2. Player Overall and Archetype are now shown on player detail modal. (You wont see Archetype until you run training at least once after this update.)
+3. Add confirmation when executing reverting of ratings.
+
+Bug Fixes:
+1. Fixed issue with teams not getting initialized correctly in certain circumstances.
+2. Fixed issue with incorrect team nicknames being imported.
+3. QBs should not have generic 'ThrowAccuracy' attribute available to be improved, as it is not used.
+
+Changes:
+1. Team dropdowns now show city name AND nickname. (You will need to run the 'Update Teams' function for this to work properly).
+2. Modified the font used in the app.
+3. On the training report, injured players are now shown in RED (instead of a dedicated icon column), to save room.
+   
 ## Build 0.0.6 (RELEASE CANDIDATE)
 Bug Fixes:
 1. Fixed issue of not being able to view training report on older franchises.
